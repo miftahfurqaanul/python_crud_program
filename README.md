@@ -1,8 +1,8 @@
-# Python CRUD Application for [Business Domain]
+# Python CRUD Application for [Teacher]
 
 A comprehensive Python application for managing [Data Entity] data with Create, Read, Update, and Delete (CRUD) operations.
 
-## Business Understanding
+## Teacher Understanding
 
 This project caters to the [Industry/Business Domain] industry, specifically addressing the need to manage [Data Entity] data efficiently. [Data Entity] plays a crucial role in [Explain the importance of data entity in business processes].
 
