@@ -6,16 +6,14 @@ A comprehensive Python application for managing [Data Entity] data with Create, 
 
 This project caters to the [Education/School Domain] Education, specifically addressing the need to manage [Data Entity] data efficiently. [Data Entity] plays a crucial role in [Explain the importance of data entity in Education processes].
 
-**Benefits:**
+    ** Benefits:
+    * Better data accuracy and consistency
+    * Streamlined data management process
+    * Better decision-making through available data
+    * Operate efficiently for optimization in the field of education.
 
-* Improved data accuracy and consistency
-* Streamlined data management processes
-* Enhanced decision-making through readily available data
-* ... (List additional benefits relevant to the business)
-
-**Target Users:**
-
-This application is designed for [Target Users] (e.g., storing student grade data, student personal data) within the organization to facilitate their [Tasks/Activities] related to [Data Entity].
+    ** Target Users:
+    This application is designed for teachers who want to input student grades and in addition there is also about student personal data to facilitate those who are related       to students and student guardians.
 
 ## Features
 
