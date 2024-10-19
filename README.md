@@ -4,7 +4,7 @@ A comprehensive Python application for managing [Data Entity] data with Create, 
 
 ## Teacher Understanding
 
-This project caters to the [Industry/Business Domain] industry, specifically addressing the need to manage [Data Entity] data efficiently. [Data Entity] plays a crucial role in [Explain the importance of data entity in business processes].
+This project caters to the [Education/School Domain] Education, specifically addressing the need to manage [Data Entity] data efficiently. [Data Entity] plays a crucial role in [Explain the importance of data entity in Education processes].
 
 **Benefits:**
 
@@ -15,30 +15,21 @@ This project caters to the [Industry/Business Domain] industry, specifically add
 
 **Target Users:**
 
-This application is designed for [Target Users] (e.g., sales representatives, inventory managers, customer support agents) within the organization to facilitate their [Tasks/Activities] related to [Data Entity].
+This application is designed for [Target Users] (e.g., storing student grade data, student personal data) within the organization to facilitate their [Tasks/Activities] related to [Data Entity].
 
 ## Features
 
 * **Create:**
-    * Add new [Data Entity] entries with essential details like [List relevant fields].
-    * Implement validation rules to ensure data integrity (if applicable, e.g., unique identifiers, data type checks).
+     *  Add data entry of grade 10,11,12 students' grades data with important details especially student grades and student's parent number for other additions such as               student's personal data such as height, weight, skin color, parent's name and residence.
+     * Apply validation rules to ensure that the student's parent number is not the same as another student's parent number.
 * **Read:**
-    * Search and retrieve specific [Data Entity] records by applying filters based on [Searchable fields].
-    * Display comprehensive information for each [Data Entity] in a user-friendly format.
-    * Integrate pagination and sorting capabilities for large datasets (if applicable).
+   * Search and retrieve specific student grade data by applying filters based on the student's parent number.
+   * Display comprehensive information for each student in a user-usable format.
 * **Update:**
-    * Modify existing [Data Entity] data to reflect changes in [Attributes/Properties].
-    * Provide clear confirmation or error messages based on update success or failure.
+    * Modify existing student grade data to reflect changes in student name, gender, class, subject and grade, as available.
+    * Provides clear confirmation or error messages based on the success or failure of the update.
 * **Delete:**
-    * Allow for the removal of unwanted [Data Entity] records with appropriate authorization checks (if applicable).
-    * Implement soft delete functionality to prevent permanent data loss (optional, depending on business needs).
-    * Consider offering data archiving capabilities (optional).
-* **Security:**
-    * Implement user authentication and authorization mechanisms (if sensitive data is involved) to control access to different CRUD operations.
-    * ... (Specify additional security features as needed)
-* **Reporting:**
-    * Generate reports or summaries based on [Data Entity] data to support [Business Functions] (optional).
-    * Export data in various formats (e.g., CSV, Excel) for further analysis (optional).
+   * Enables deletion of unwanted student grade data with appropriate authorization checks.
 
 ## Installation
 
@@ -64,17 +55,8 @@ This application is designed for [Target Users] (e.g., sales representatives, in
     ```
 
 2. **CRUD Operations:**
-    * **Create:** Add a new [Data Entity] record, for example, a new customer in a customer management system, providing details like name, contact information, and preferences.
-    * **Read:** Search and retrieve customer information by name, ID, or other relevant criteria.
-    * **Update:** Modify customer details, such as updating their address or contact details.
+    * **Create:** Add a new [Data Entity] record, for example, especially student grades and student's parent number for other additions such as student's personal data such       as height, weight, skin color, parent's name and residence.
+    * **Read:** Search and retrieve student information by name, NIS, or other relevant criteria.
+    * **Update:** Modify Student details, such as updating their address or contact details.
     * **Delete:** Remove a customer record from the system (with appropriate authorization, if applicable).
-
-## Data Model
-This project utilizes a [Data Structure] (e.g., relational database, JSON documents) to represent [Data Entity] data. The following fields are typically stored:
-   * [Field 1]: (Data type) - Description of the field's purpose in the business context.
-   * [Field 2]: (Data type) - Description of the field's purpose in the business context.
-   * ... (List all relevant fields)
-
-## Contributing
-We welcome contributions to this project! Please feel free to open a pull request, sent to [your_email] or submit an issue if you encounter any problems or have suggestions for improvements.
 
