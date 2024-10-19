@@ -13,7 +13,8 @@ This project caters to the [Education/School Domain] Education, specifically add
     * Operate efficiently for optimization in the field of education.
 
     ** Target Users:
-    This application is designed for teachers who want to input student grades and in addition there is also about student personal data to facilitate those who are related       to students and student guardians.
+    This application is designed for teachers who want to input student grades and in addition there is also about student personal data 
+    to facilitate those who are related to students and student guardians.
 
 ## Features
 
