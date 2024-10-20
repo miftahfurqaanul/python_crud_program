@@ -2,7 +2,7 @@
 
 A comprehensive Python application for managing [Data Entity] data with Create, Read, Update, and Delete (CRUD) operations.
 
-## Teacher Understanding
+## Education Understanding
 
 This project caters to the [Education/School Domain] Education, specifically addressing the need to manage [Data Entity] data efficiently. [Data Entity] plays a crucial role in [Explain the importance of data entity in Education processes].
 
