@@ -59,3 +59,21 @@ This project caters to the [Education/School Domain] Education, specifically add
     * **Update:** Modify Student details, such as updating their address or contact details.
     * **Delete:** Remove a customer record from the system (with appropriate authorization, if applicable).
 
+
+ **Data Model** 
+  This project uses a list of dictionaries to present student grade data. each student's grade record is stored in the system. with the :
+   NIS = integer type as the primary key.
+   name = string type "description name student"
+   gender = string type "description gender student"
+   parent = string type "description parent student"
+   place = string type "description place student"
+   weight = integer type "description weight student"
+   height = integer type "description height student"
+   class = integer type "description class student"
+   score = integer type "description score student"
+   vocational = string type "description vocational student"
+   subject = string type "description subject student"
+
+   **Contributing**
+   We welcome contributions to this project! Please feel free to open a pull request, sent to miftahfurqaanull@gmail.com or submit an issue if you encounter any problems or     have suggestions for improvements.
+
