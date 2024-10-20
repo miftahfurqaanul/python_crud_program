@@ -1,4 +1,4 @@
-# Python CRUD Application for [Teacher]
+# Python CRUD Application for input score student [Teacher]
 
 A comprehensive Python application for managing [Data Entity] data with Create, Read, Update, and Delete (CRUD) operations.
 
